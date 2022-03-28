@@ -1,4 +1,6 @@
 # Real-time gun detection in CCTV : An open problem
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)  
+
 All the information can be found in the following link: [https://deepknowledge-us.github.io/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset/](https://deepknowledge-us.github.io/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset/).
 
 <p align="center">
@@ -26,3 +28,13 @@ url = "http://www.sciencedirect.com/science/article/pii/S0893608020303361",
 author = "Salazar Gonz{\'{a}}lez, Jose L. and Zaccaro, Carlos and {\'{A}}lvarez-Garc{\'{i}}a, Juan A. and Soria-Morillo, Luis M. and Sancho Caparrini, Fernando",
 }
 ```
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc]. Contact the authors of this work for commercial use. 
+
+[![CC BY NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
